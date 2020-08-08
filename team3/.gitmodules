@@ -1,0 +1,9 @@
+[submodule "docker-database"]
+    path = docker-database
+    url = https://github.com/pers0n4/docker-databases
+[submodule "backend"]
+    path = backend
+    url = https://github.com/pers0n4/dsc-2nd-hackathon-backend
+[submodule "frontend"]
+    path = frontend
+    url = https://github.com/pers0n4/dsc-2nd-hackathon-frontend
